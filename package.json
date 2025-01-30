@@ -1,0 +1,20 @@
+{
+  "name": "package1227",
+  "version": "1.0.0",
+  "description": "a npm practice package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaypurnwasi/package8.git"
+  },
+  "author": "jay",
+  "type": "module",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Jaypurnwasi/package8/issues"
+  },
+  "homepage": "https://github.com/Jaypurnwasi/package8#readme"
+}
